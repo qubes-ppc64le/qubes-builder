@@ -1,7 +1,7 @@
 chroot-*
 qubes-src
 
-builder*.conf
+#builder*.conf
 /*.conf*
 setup*.conf
 *.conf.old
